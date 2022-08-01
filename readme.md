@@ -1,6 +1,10 @@
 ***Парсер для страницы https://www.lesegais.ru/open-area/deal.***
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+
+https://user-images.githubusercontent.com/57679050/182248814-bfcb4c11-2f64-42ed-9000-85ff45366547.mp4
+
+
 
 Парсит ***данные*** с данного источника и автоматически записывает данные с базу данных ***MySQL***.
 
