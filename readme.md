@@ -1,5 +1,7 @@
 ***Парсер для страницы https://www.lesegais.ru/open-area/deal.***
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 Парсит ***данные*** с данного источника и автоматически записывает данные с базу данных ***MySQL***.
 
 Требования к работе парсера можно найти в документе требований, прикреплённом в репозитории.
