@@ -13,7 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/57679050/182388142-bfd87c24-d1da-4223-b6a2-9bd14f45870b.png)
 
+ 4.В настройках базы данных MySQL Edit -> Preferences -> SQL Editor -> Safe Updates (rejects Updates and Deletes with no restrictions) должно стоять false.
  
+ ![image](https://user-images.githubusercontent.com/57679050/182388908-87abfa55-0bf5-47a1-b616-8e8ebc11b2ea.png)
+
 В файле настроек парсера: Settings.ini должно быть корректно указан
 
 * Адрес сервера базы данных
