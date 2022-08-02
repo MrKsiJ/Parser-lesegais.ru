@@ -4,6 +4,7 @@
 * MySQL Installer
 * MySQL Server
 * MySQL Workbench
+
 2.На компьютере должна быть выполнена настройка подключения в MySQL Workbench к MySQL Server.
 
 ![image](https://user-images.githubusercontent.com/57679050/182249097-35715c19-8195-439e-adb5-015c4c1b95cd.png)
